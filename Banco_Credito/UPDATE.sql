@@ -1,5 +1,3 @@
-USE credibank;
-
 -- Desactiva el modo seguro para permitir actualizaciones masivas
 SET SQL_SAFE_UPDATES = 0;
 
